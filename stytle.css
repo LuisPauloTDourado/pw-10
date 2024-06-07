@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(255, 248, 226);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+img {
+    border-radius: 14px;
+    width: 530px;
+    height: 350px;
+}
+
+.lista {
+    display: list-item;
+    padding: 0 27em;
+    text-align: justify;
+    
+}
+ul {
+    list-style-type: disc;
+}
+
+mark {
+    background-color: brown;
+    color: white;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+mark:hover {
+    background-color: rgb(221, 23, 23);
+    color: rgb(168, 168, 168);
+    width: 20px;
+    height: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+hr {
+    color: black;
+    background-color: black;
+}
+
+.a:hover {
+    scale: 1.1;
+}
